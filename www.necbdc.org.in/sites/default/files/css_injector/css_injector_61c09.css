@@ -1,0 +1,10 @@
+.views-responsive-grid .views-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+}
+.views-responsive-grid .views-column {
+   // adjust as needed
+    margin: 1rem;
+}

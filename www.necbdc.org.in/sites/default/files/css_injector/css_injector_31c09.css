@@ -1,0 +1,14 @@
+/* Typography and Links */
+@import url(https://fonts.googleapis.com/css?family=Lato:300,900,300italic,700);
+
+body {
+    font-family: 'Lato',sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+h1, h2, h3, h4 { font-weight: 700; }
+h1 { font-size: 2.5em; }
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
